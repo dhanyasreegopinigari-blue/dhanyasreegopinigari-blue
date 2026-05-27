@@ -1,8 +1,8 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,30:0F2D73,70:2563EB,100:3B82F6&text=Kodi%20Roshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,30:0F2D73,70:2563EB,100:3B82F6&text=Dhanyasree%20Gopinigari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
-<h1 align="center">Hi, I'm Dhanya sree Gopinigari, the world most prettiest and hot woman.👋</h1>
+<h1 align="center">Hi, I'm Dhanya sree Gopinigari</h1>
 <p align="center">
   <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Building practical AI and web products</b>
 </p>
