@@ -1,16 +1,152 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,30:0F2D73,70:2563EB,100:3B82F6&text=Kodi%20Roshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+</p>
+<h1 align="center">Hi, I'm Dhanya sree Gopinigari, the world most prettiest and hot woman.👋</h1>
+<p align="center">
+  <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Building practical AI and web products</b>
+</p>
 
-<!--
-**dhanyasreegopinigari-blue/dhanyasreegopinigari-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+modern+and+practical+applications;Turning+ideas+into+real-world+products;Always+learning+and+improving" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://roshankodi.github.io/portfolio-me/">
+<img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://studysync-8v0b.onrender.com">
+<img src="https://img.shields.io/badge/🌐_Live_Site-0ea5e9?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kodi-roshan-78858b356/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-1d4ed8?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://github.com/roshankodi">
+<img src="https://img.shields.io/badge/🤝_Connect-2563eb?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="mailto:roshankodi019@gmail.com">
+<img src="https://img.shields.io/badge/✉️_Email-dc2626?style=for-the-badge&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### About Me
+
+I’m a developer passionate about building practical applications with clean design and meaningful user experiences.  
+My interests include **Web Development**, **AI-powered applications**, and **real-time systems**.
+
+- Currently expanding my skills in **full-stack development and AI**
+- Interested in building projects that combine **clean UI and practical functionality**
+- Focused on creating applications that solve real-world problems
+---
+
+### 🧩 roshan.config.json
+
+```json
+{
+  "name": "Kodi Roshan",
+  "role": "CSE Student | Full-Stack Developer | AI Enthusiast",
+  "focus": [
+    "AI-powered applications",
+    "Real-time web apps",
+    "Machine learning projects",
+    "Modern experiences"
+  ],
+  "currently_working_on": [
+    "Better UI/UX",
+    "More real-world projects",
+    "Accessibility improvements",
+    "SEO and performance"
+  ],
+  "tech_mindset": "Building, Learning, and Growing Every Day."
+}
+```
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+#### 📚 [StudySync](https://github.com/roshankodi/StudySync)
+
+AI-powered learning platform focused on smarter studying and interactive learning experiences.
+
+**Focus:** AI Integration • Responsive UI • Productivity
+
+#### 💬 [SyncTalk](https://github.com/roshankodi/synctalk)
+Real-time chat application featuring room-based messaging and responsive user experience.
+
+**Tech:** React • Node.js • Socket.IO
+
+#### 📈 [Car Price Prediction](https://github.com/roshankodi/car-price-prediction)
+Machine learning application for vehicle price prediction using data-driven analysis.
+
+**Tech:** Python • Flask • Scikit-Learn
+
+#### 🌐 [Portfolio Website](https://github.com/roshankodi/portfolio-me)
+Modern responsive portfolio with dark mode, project showcase, certifications, resume access, and social integration.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,git,github,vscode,firebase,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+<h3 align="center">🎯 Interests</h3>
+
+<p align="center">
+Full-Stack Development • Artificial Intelligence • Machine Learning • Real-Time Applications • UI/UX Design • Problem Solving • Cloud Technologies
+</p>
+
+---
+
+<h3 align="center">🎵 Hobbies</h3>
+
+<p align="center">
+Building Side Projects • Exploring New Technologies • Reading Tech Blogs • Listening to Music • Playing Badminton • Learning New Tools
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+<img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" alt="GitHub Stats Card" />
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+
+<a href="https://roshankodi.github.io/portfolio-me/">
+Portfolio
+</a> •
+<a href="https://github.com/roshankodi">
+GitHub
+</a> •
+<a href="https://www.linkedin.com/in/kodi-roshan-78858b356/">
+LinkedIn
+</a>
+
+</p>
+
+<p align="center">
+<i>Building, Learning, and Growing Every Day 🚀</i>
+</p>
