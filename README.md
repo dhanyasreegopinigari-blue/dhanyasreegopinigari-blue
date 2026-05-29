@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/🌐_Live_Site-0ea5e9?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kodi-roshan-78858b356/">
+<a href="https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-1d4ed8?style=for-the-badge&logoColor=white"/>
 </a>
 
