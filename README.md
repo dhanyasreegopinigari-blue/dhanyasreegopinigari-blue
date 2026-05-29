@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://roshankodi.github.io/portfolio-me/">
+<a href="https://github.com/dhanyasreegopinigari-blue/portfolio.git">
 <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logoColor=white"/>
 </a>
 
