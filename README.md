@@ -1,5 +1,5 @@
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=dhanyasreegopinigari-blue&theme=midnight-purple&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Dhanya%20Sree%20Gopinigari&fontSize=45&fontColor=ffffff"/>
 </p>
 <h1 align="center">Hi 👋, I'm Dhanya Sree Gopinigari</h1>
 
