@@ -1,4 +1,3 @@
-````md
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,55:2563EB,100:38BDF8&text=Dhanya%20Sree%20Gopinigari&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
@@ -133,4 +132,3 @@ Authentication platform featuring secure login, password hashing, and session ma
 <p align="center">
 <i>Building Secure, Intelligent & User-Centric Applications 🚀</i>
 </p>
-```
