@@ -196,14 +196,6 @@ Flask • SQLAlchemy • SQLite • Flask-Login
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhanyasreegopinigari-blue&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
