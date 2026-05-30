@@ -1,7 +1,6 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Dhanya%20Sree%20Gopinigari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=dhanyasreegopinigari-blue&theme=midnight-purple&hide_border=true"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Dhanya Sree Gopinigari</h1>
 
 <p align="center">
@@ -99,9 +98,7 @@ Authentication platform featuring secure login, password hashing and session man
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanyasreegopinigari-blue&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasreegopinigari-blue&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=dhanyasreegopinigari-blue&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
