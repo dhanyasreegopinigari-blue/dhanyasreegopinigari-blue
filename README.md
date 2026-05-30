@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,55:2563EB,100:38BDF8&text=Dhanya%20Sree%20Gopinigari&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Dhanya%20Sree%20Gopinigari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanya Sree Gopinigari</h1>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Secure+and+Intelligent+Applications;AI+%7C+Cybersecurity+%7C+Full-Stack+Development;Transforming+Ideas+into+Real-World+Products;Always+Learning+and+Growing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+Secure+and+Intelligent+Applications;AI+%7C+Cybersecurity+%7C+Full-Stack+Development;Transforming+Ideas+into+Real-World+Products;Always+Learning+and+Growing" />
 </p>
 
 <p align="center">
@@ -57,27 +57,23 @@
   ],
   "goal": "Building secure and intelligent products that solve real-world problems."
 }
-````
+```
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 💬 SyncTalk
-
-Real-time chat application built using React, Node.js, MongoDB, and Socket.IO.
+Real-time chat application built using React, Node.js, MongoDB and Socket.IO.
 
 ### 📈 Phishing Email Detection
-
 Machine Learning-powered phishing email detection system using NLP and Scikit-Learn.
 
 ### 🛡️ Password Strength Analyzer
-
-Cybersecurity-focused web application that evaluates password security and strength.
+Cybersecurity-focused web application that evaluates password strength and security.
 
 ### 🔐 Secure Login System
-
-Authentication platform featuring secure login, password hashing, and session management.
+Authentication platform featuring secure login, password hashing and session management.
 
 ---
 
@@ -87,35 +83,29 @@ Authentication platform featuring secure login, password hashing, and session ma
 <img src="https://skillicons.dev/icons?i=python,flask,react,nodejs,mongodb,sqlite,html,css,js,git,github,vscode,tailwind,vite" />
 </p>
 
-<p align="center">
-🤖 Machine Learning •
-🔐 Cybersecurity •
-⚡ Real-Time Systems •
-🌐 Full-Stack Development •
-☁ Cloud Technologies
-</p>
-
 ---
 
 ## 🎯 Areas of Interest
 
-* 🔐 Cybersecurity & Secure Authentication
-* 🤖 Artificial Intelligence & Machine Learning
-* 📧 Email Threat Detection
-* ⚡ Real-Time Communication Systems
-* 🌐 Full-Stack Web Development
-* ☁ Cloud Deployment & Scalability
+- 🔐 Cybersecurity & Secure Authentication
+- 🤖 Artificial Intelligence & Machine Learning
+- 📧 Email Threat Detection
+- ⚡ Real-Time Communication Systems
+- 🌐 Full-Stack Web Development
+- ☁ Cloud Deployment & Scalability
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=dhanyasreegopinigari-blue&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanyasreegopinigari-blue&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasreegopinigari-blue&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasreegopinigari-blue&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasreegopinigari-blue&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
