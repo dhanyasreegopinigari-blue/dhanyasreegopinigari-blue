@@ -87,12 +87,12 @@ A Machine Learning based web application that detects phishing emails using NLP 
 
 **Tech:** Python • Flask • Scikit-learn • HTML • CSS • JavaScript • Pandas • Joblib
 
-####🛡️ [Password Strength Analyzer](https://github.com/dhanyasreegopinigari-blue/password-strength-analyzer.git)
+#### 🛡️ [Password Strength Analyzer](https://github.com/dhanyasreegopinigari-blue/password-strength-analyzer.git)
 A full-stack cybersecurity web application that analyzes password strength based on security rules like length, complexity, uniqueness, and password reuse prevention.
 
 **Tech:** Frontend • HTML5 • CSS3 • JavaScript • Backend • Python • Flask • Database • SQLite
 
-####🔐 [Secure Login System](https://github.com/dhanyasreegopinigari-blue/secure-login-system.git)
+#### 🔐 [Secure Login System](https://github.com/dhanyasreegopinigari-blue/secure-login-system.git)
 A secure authentication web application built using Flask. The project includes user registration, login, logout, session management, password hashing using bcrypt, and input validation to enhance security. 
 
 **Tech:** Python • Flask • SQLite • SQLAlchemy • Flask-Bcrypt • Flask-Login • HTML5 CSS3
