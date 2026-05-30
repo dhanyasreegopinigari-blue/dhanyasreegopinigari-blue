@@ -47,12 +47,12 @@ My interests include **Web Development**, **AI-powered applications**, and **rea
 - Focused on creating applications that solve real-world problems
 ---
 
-### 🧩 roshan.config.json
+### 🧩 Dhanyasree.config.json
 
 ```json
 {
-  "name": "Kodi Roshan",
-  "role": "CSE Student | Full-Stack Developer | AI Enthusiast",
+  "name": "Gopinigari Dhanya sree",
+  "role": "CSE (AI & ML) Student | Full-Stack Developer | AI Enthusiast",
   "focus": [
     "AI-powered applications",
     "Real-time web apps",
@@ -72,26 +72,30 @@ My interests include **Web Development**, **AI-powered applications**, and **rea
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-#### 📚 [StudySync](https://github.com/roshankodi/StudySync)
-
-AI-powered learning platform focused on smarter studying and interactive learning experiences.
-
-**Focus:** AI Integration • Responsive UI • Productivity
-
-#### 💬 [SyncTalk](https://github.com/roshankodi/synctalk)
+#### 💬 [SyncTalk](https://github.com/dhanyasreegopinigari-blue/Synctalk.git)
 Real-time chat application featuring room-based messaging and responsive user experience.
 
 **Tech:** React • Node.js • Socket.IO
 
-#### 📈 [Car Price Prediction](https://github.com/roshankodi/car-price-prediction)
-Machine learning application for vehicle price prediction using data-driven analysis.
-
-**Tech:** Python • Flask • Scikit-Learn
-
-#### 🌐 [Portfolio Website](https://github.com/roshankodi/portfolio-me)
+#### 🌐 [Portfolio Website](https://github.com/dhanyasreegopinigari-blue/portfolio.git)
 Modern responsive portfolio with dark mode, project showcase, certifications, resume access, and social integration.
 
 **Tech:** React • JavaScript • HTML • CSS
+
+#### 📈 [Phishing Email Detection](https://github.com/dhanyasreegopinigari-blue/phishing-email-detection-system.git)
+A Machine Learning based web application that detects phishing emails using NLP and Scikit-learn.
+
+**Tech:** Python • Flask • Scikit-learn • HTML • CSS • JavaScript • Pandas • Joblib
+
+####🛡️ [Password Strength Analyzer](https://github.com/dhanyasreegopinigari-blue/password-strength-analyzer.git)
+A full-stack cybersecurity web application that analyzes password strength based on security rules like length, complexity, uniqueness, and password reuse prevention.
+
+**Tech:** Frontend • HTML5 • CSS3 • JavaScript • Backend • Python • Flask • Database • SQLite
+
+####🔐 [Secure Login System](https://github.com/dhanyasreegopinigari-blue/secure-login-system.git)
+A secure authentication web application built using Flask. The project includes user registration, login, logout, session management, password hashing using bcrypt, and input validation to enhance security. 
+
+**Tech:** Python • Flask • SQLite • SQLAlchemy • Flask-Bcrypt • Flask-Login • HTML5 CSS3
 
 ---
 
@@ -114,7 +118,7 @@ Full-Stack Development • Artificial Intelligence • Machine Learning • Real
 <h3 align="center">🎵 Hobbies</h3>
 
 <p align="center">
-Building Side Projects • Exploring New Technologies • Reading Tech Blogs • Listening to Music • Playing Badminton • Learning New Tools
+Building Side Projects • Exploring New Technologies • Reading Tech Blogs • Listening to Music • Reading Books • Learning New Tools • Coding
 </p>
 
 ---
