@@ -1,6 +1,3 @@
-
-<!-- ================= HEADER ================= -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,55:2563EB,100:38BDF8&text=Dhanya%20Sree%20Gopinigari&fontColor=ffffff&fontSize=54&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Full-Stack%20Development&descSize=18&descAlignY=58"/>
 </p>
@@ -81,8 +78,7 @@ I'm passionate about building secure, scalable, and user-focused applications th
   ],
   "goal": "Build intelligent and secure software that solves real-world problems."
 }
-````
-
+```
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
