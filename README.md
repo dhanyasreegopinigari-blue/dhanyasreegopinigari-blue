@@ -42,21 +42,21 @@
 {
   "name": "Dhanya Sree Gopinigari",
   "role": "B.Tech CSE (AI & ML)",
+  "location": "India",
   "focus": [
     "Artificial Intelligence",
     "Cybersecurity",
     "Full-Stack Development"
   ],
+  "currently_learning": [
+    "Machine Learning",
+    "Secure Software Engineering",
+    "Cloud Technologies"
+  ],
   "currently_building": [
     "AI Applications",
     "Secure Web Platforms",
     "Real-Time Systems"
-  ],
-  "interests": [
-    "Threat Detection",
-    "Machine Learning",
-    "Authentication Systems",
-    "Cloud Technologies"
   ],
   "goal": "Building secure and intelligent products that solve real-world problems."
 }
