@@ -190,13 +190,21 @@ Flask • SQLAlchemy • SQLite • Flask-Login
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanyasreegopinigari-blue&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanyasreegopinigari-blue&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasreegopinigari-blue&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
 
-</p>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasreegopinigari-blue&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasreegopinigari-blue&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
@@ -207,7 +215,7 @@ Flask • SQLAlchemy • SQLite • Flask-Login
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhanyasreegopinigari-blue&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhanyasreegopinigari-blue&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
