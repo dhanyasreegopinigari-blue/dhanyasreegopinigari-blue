@@ -184,26 +184,14 @@ Flask • SQLAlchemy • SQLite • Flask-Login
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhanyasreegopinigari-blue&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasreegopinigari-blue&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasreegopinigari-blue&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://ghstats.dev/api/card?username=dhanyasreegopinigari-blue&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" alt="GitHub Stats Card" />
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyasreegopinigari-blue&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
