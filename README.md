@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Dhanya%20Sree%20Gopinigari&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=220&section=header&text=Dhanya%20Sree%20Gopinigari&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 </p>
 <h1 align="center">Hi 👋, I'm Dhanya Sree Gopinigari</h1>
 
