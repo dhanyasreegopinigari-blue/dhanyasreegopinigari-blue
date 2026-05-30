@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/dhanyasreegopinigari-blue">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge"/>
+</a>
+
 <a href="https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-2563EB?style=for-the-badge"/>
 </a>
