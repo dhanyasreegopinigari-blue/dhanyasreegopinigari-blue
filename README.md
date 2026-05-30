@@ -223,4 +223,3 @@ Flask • SQLAlchemy • SQLite • Flask-Login
 <p align="center">
 <i>Building Secure, Intelligent & User-Centric Applications 🚀</i>
 </p>
-```
