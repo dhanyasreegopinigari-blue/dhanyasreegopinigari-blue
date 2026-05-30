@@ -216,7 +216,7 @@ Flask • SQLAlchemy • SQLite • Flask-Login
 
 <p align="center">
 
-<a href="https://dhanyasreegopinigari-blue.github.io/portfolio/">Portfolio</a> • <a href="https://github.com/dhanyasreegopinigari-blue">GitHub</a> • <a href="https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/">LinkedIn</a> • <a href="mailto:yourmail@gmail.com">Email</a>
+<a href="https://dhanyasreegopinigari-blue.github.io/portfolio/">Portfolio</a> • <a href="https://github.com/dhanyasreegopinigari-blue">GitHub</a> • <a href="https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/">LinkedIn</a> • <a href="mailto:dhanyasreegopinigari@gmail.com">Email</a>
 
 </p>
 
